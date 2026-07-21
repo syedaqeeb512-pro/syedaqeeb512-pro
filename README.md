@@ -1,4 +1,7 @@
-# 💫 About Me:
+<p align="center">
+  <img src="banner.png" alt="GitHub Banner" width="100%">
+</p>
+ 💫 About Me:
  Hi, I'm Syed Aqeeb Haider Naqvi👋<br><br>I'm a Computer Science student passionate about software development and continuous learning. I enjoy building practical projects, solving programming challenges, and improving my technical skills through hands-on experience.<br><br> 💻 Technologies<br>- Python<br>- C++<br>- HTML<br>- CSS<br>- JavaScript<br>- Git & GitHub<br><br> 🌱 Currently Learning<br>- Frontend Development<br>- Full-Stack Web Development<br>- Cloud Fundamentals<br>- Modern Software Development Practices<br><br> 🏆 Highlights<br>- Successfully completed Stanford University's **Code in Place** program.<br>- Completed Deloitte Australia **Cyber Job Simulation** on Forage.<br>- Building projects to strengthen my software development skills.<br><br> 🎯 Goals<br>My goal is to become a skilled Software Engineer by building meaningful projects, learning from real-world challenges, and continuously improving my technical and problem-solving abilities.<br><br>**Always learning. Always building.**
 
 
